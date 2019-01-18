@@ -7,5 +7,8 @@ export default {
     width: "70%",
     maxWidth: "650px",
     fontFamily: "Avenir"
+  },
+  containerSelect: {
+    width: "70%"
   }
 };
